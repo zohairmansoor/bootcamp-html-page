@@ -1,2 +1,2 @@
 # bootcamp-html-page
-Create a html css page with image
+Create a html css page with imageS
